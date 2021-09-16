@@ -14,8 +14,8 @@ st.audio(open('sweet.mp3', 'rb').read(), format='audio/ogg')
 PAGES = {
     "Home": home,
     "Check Economic Crisis Status": one,
-    "Check the Change in Interest Rate": interestrate,
-    "Check Money Market Indicator": mmi,
+    "Visualize the Change in Interest Rate": interestrate,
+    "Visualize Money Market Indicator": mmi,
     "Check Bank Account Eligibility": five,
     "Check Credit Card Eligibility": two,
     "Check Student Loan Status": three,

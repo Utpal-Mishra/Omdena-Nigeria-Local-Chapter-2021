@@ -24,15 +24,23 @@ def app():
     
     st.write("")
     
-    st.write("Page 2: Check Credit Card Eligibility")
+    st.write("Page 2: Visualize the Change in Interest Rate")
     
     st.write("")
     
-    st.write("Page 3: Check Students Loan Eligibility")
+    st.write("Page 3: Visualize Money Market Indicator")
     
     st.write("")
     
-    st.write("Page 4: Check Employee Loan Eligibility")
+    st.write("Page 4: Check Credit Card Eligibility")
+    
+    st.write("")
+    
+    st.write("Page 5: Check Students Loan Eligibility")
+    
+    st.write("")
+    
+    st.write("Page 6: Check Employee Loan Eligibility")
     
     
 
